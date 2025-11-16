@@ -100,7 +100,7 @@ Summarized model performance and key insights.
 
 ---
 
-## 🏁 Final Results (Example)
+## 🏁 Final Results 
 Your results may vary slightly.
 
 | Metric | Value |
@@ -113,7 +113,7 @@ Best-performing model: **RandomForest / XGBoost** (usually)
 
 ---
 
-## 🧠 Key Insights (Easy English)
+## 🧠 Key Insights 
 
 - Students who **completed test preparation** scored better.  
 - Students with **standard lunch** performed better than those with free/reduced lunch.  
